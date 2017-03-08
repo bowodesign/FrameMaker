@@ -1,7 +1,7 @@
 <h1>README:</h1>
 <img src="https://github.com/aghanathan/FrameMaker/blob/master/Example-Framed-Picture.png"/>
 
-Live Demo at: <a href="http://thinknesia.com/FrameMaker">http://thinknesia.com/FrameMaker</a>
+Live Demo at: <a href="http://thinknesia.com/FrameMaker" target="_blank">http://thinknesia.com/FrameMaker</a>
 
 # FrameMaker
 Frame your Photo with &lt;? PHP ?> works!
